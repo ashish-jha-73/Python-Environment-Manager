@@ -31,7 +31,7 @@ ikshvaku remove <env_name>
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/ikshvaku.git
+git clone https://github.com/ashish-jha-73/Python-Environment-Manager.git
 ```
 
 ### 2. Enter the repository
