@@ -27,4 +27,6 @@ rm -f "$SELF_PATH"
 
 printf "${GREEN}:: Uninstalled successfully${RESET}\n"
 printf "${GREEN}:: Restart your shell to apply changes${RESET}\n"
+printf "${GREEN}:: To report any problem, raise an issue at:${RESET}\n"
+printf "${GREEN}:: https://github.com/ashish-jha-73/Python-Environment-Manager${RESET}\n"
 

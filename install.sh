@@ -32,4 +32,9 @@ fi
 
 printf "${GREEN}:: Installed successfully${RESET}\n"
 printf "${GREEN}:: Restart your shell or run: source ~/.bashrc${RESET}\n"
-printf "${GREEN}:: To uninstall later, run: ikshvaku-uninstall${RESET}\n"
+printf "${GREEN}:: To support us, click here:${RESET}\n"
+printf "${GREEN}:: https://github.com/ashish-jha-73/Python-Environment-Manager${RESET}\n"
+printf "${GREEN}:: Installation is complete. You may now safely delete the Python-Environment-Manager directory.${RESET}\n"
+printf "${GREEN}:: Ikshvaku is very lightweight, so you can safely ignore it when not in use.${RESET}\n"
+printf "${GREEN}:: If you ever want to remove Ikshvaku, run: ikshvaku-uninstall${RESET}\n"
+
