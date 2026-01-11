@@ -110,7 +110,7 @@ Your system remains untouched otherwise.
 
 ## Requirements
 
-- Linux (tested on Arch Linux)
+- Linux
 - Bash
 - Python 3 with `venv`
 
